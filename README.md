@@ -14,5 +14,5 @@ rectangle_walking: 绕矩形框飞行（没有实际测飞过），参照 line_w
 aim_area : 目标区域提取.
            blog : https://blog.csdn.net/LNL_LNL/article/details/100126127
 
-line1_2019 : 2019电赛识别电缆线.
+line_2019 : 2019电赛识别电缆线.
            blog : https://blog.csdn.net/LNL_LNL/article/details/100127957 
